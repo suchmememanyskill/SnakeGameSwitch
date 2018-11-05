@@ -1,2 +1,2 @@
 # SnakeGameSwitch
-An extremely simple game coded in c
+An extremely simple snake clone coded in c
